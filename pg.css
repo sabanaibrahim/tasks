@@ -1,0 +1,208 @@
+body{
+    background-image: url('https://img.freepik.com/free-photo/overloaded-cake-with-pink-background_23-2150996364.jpg');
+    background-repeat: no-repeat;
+    height: 100px;
+   
+    background-size: 100%;
+  
+}
+pre{
+    font-size: 60px;
+    font-weight: bolder;
+    color: rgb(83, 24, 62);
+    margin-left: 17%;
+    font-style: oblique;
+    margin-top: -5%;
+    
+}
+pre::after{
+    content: '';
+    background: rgb(83, 44, 82);
+    width: 15%;
+    height: 3px;
+    display: block;
+}
+.lo{
+    position: relative;
+    display: block;
+    height: 130px;
+    width: 7%;
+    left: 9%;
+   
+}
+nav{
+    padding: 5px 5px;
+    margin-top: -1%;
+    margin-left: -0.3%;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: end;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 15px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(116, 56, 76);
+    font-size: 25px;
+    font-weight: bolder;
+    
+
+}
+nav ul li a:hover{
+    background-color: rgb(155, 101, 148);
+    color: rgb(117, 19, 117);
+    opacity: 90%;
+    border-radius: 20px;
+    border-width: 50%;
+}
+i{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(107, 68, 82);
+    padding-left: 20%;
+    padding-top: -12%;
+    
+}
+samp{
+    color: rgb(98, 27, 50);
+    font-size: 40px;
+    font-weight: 400;
+    padding-left: 16%;
+    padding-top: 3%;
+
+}
+small{
+    color: rgb(80, 12, 33);
+    text-align: justify;
+    width: 300px;
+    position: relative;
+    left: 220px;
+    bottom: 5px;
+    line-height: 22px;
+    margin-top: 10% ;
+    font-size: large;
+}
+a button{
+    position: relative;
+    display: block;
+    width: 10%;
+    height: 40px;
+    left: 250px;
+    top: 50px;
+    background-color: rgb(209, 47, 74);
+    border-radius: 10px;
+    border-color: pink;
+}
+a{
+   
+    text-decoration: none;
+}
+#a1{
+    background-image: url('https://th.bing.com/th/id/OIP.IvVQ9uD_nrGn0Ym_PTJf0QHaHa?rs=1&pid=ImgDetMain');
+    height: 420px;
+    width: 60%;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    position: relative;
+    display: flex;
+    top: 400px;
+    left: 100px;
+}
+#a2{
+    color: brown;
+    font-style: italic;
+    font-size: 45px;
+    position: relative;
+    left: 70px;
+    top: 330px;
+    display: flex;
+    font-weight: bold;
+}
+em{
+    color: rgb(82, 30, 30);
+    font-size: 25px;
+    font-weight: 800;
+}
+#b1{
+    background-image: url('https://th.bing.com/th/id/OIP.irW92RK6kCY3YvCv72-06QAAAA?rs=1&pid=ImgDetMain');
+    height: 380px;
+    width: 60%;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    position: relative;
+    display: flex;
+    top: -130px;
+    left: 550px;
+}
+#b2{
+    background-image: url('https://bloomhub.in/wp-content/uploads/2022/08/cake-_01-5.jpg');
+    height: 500px;
+    width: 60%;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    position: relative;
+    display: flex;
+    top: -570px;
+    left: 1000px;
+}
+#b3{
+    color: brown;
+    font-style: italic;
+    font-size: 45px;
+    position: relative;
+    left: 50px;
+    top: -550px;
+    display: flex;
+    font-weight: bold;
+}
+#b4{
+    background-image: url('https://th.bing.com/th/id/OIP.jryuUgIHWL-1FVD2ww8oWgHaHa?rs=1&pid=ImgDetMain');
+    height: 200px;
+    width: 30%;
+    background-repeat: no-repeat;
+    background-size: 30%;
+    position: relative;
+    top: -500px;
+    left: 100px;
+
+
+}
+#b5{
+    font-size: 15px;
+    position: relative;
+    left: 100px;
+    top: -600px;
+}
+#b6{
+    position: relative;
+    left: 100px;
+    top: -590px;
+}
+#b7{
+    color: brown;
+    font-size: 40px;
+    font-style: italic;
+    position: relative;
+    left: 550px;
+    top: -500px;
+}
+#b8{
+    background-image: url('https://cdn3.vectorstock.com/i/1000x1000/79/37/3d-top-view-a-map-with-destination-location-vector-35887937.jpg');
+    width: 50%;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    position: relative;
+    top: -500px;
+    left: 500px;
+}
+#b9{
+    position: relative;
+    top: -500px;
+    left: 500px;
+}
